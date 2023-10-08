@@ -1,0 +1,4 @@
+1.Open your steam.
+2.Right-click on counter-strike 2.
+3.Click properties and go to the installed files tab.
+4.Click browse and follow the path (your disk):\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg.
